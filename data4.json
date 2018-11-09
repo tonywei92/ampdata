@@ -1,0 +1,2446 @@
+{
+    "items": [
+        {
+          "id": 1,
+          "img": "/img/product1_640x426.jpg",
+          "name": "Apple",
+          "price": "1.99",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+          "attribution": "visualhunt",
+          "url": "#",
+          "color": "green"
+        },
+        {
+          "id": 2,
+          "img": "/img/product2_640x426.jpg",
+          "name": "Orange",
+          "attribution": "visualhunt",
+          "price": "0.99",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9734;",
+          "url": "#",
+          "color": "orange"
+        },
+        {
+          "id": 3,
+          "img": "/img/product3_640x426.jpg",
+          "name": "Pear",
+          "attribution": "visualhunt",
+          "price": "1.50",
+          "stars": "&#9733;&#9733;&#9733;&#9734;&#9734;",
+          "url": "#",
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "img": "/img/product4_640x426.jpg",
+          "name": "Banana",
+          "attribution": "pixabay",
+          "price": "1.50",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+          "url": "#",
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "img": "/img/product5_640x408.jpg",
+          "name": "Watermelon",
+          "attribution": "pixabay",
+          "price": "4.50",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+          "url": "#",
+          "color": "red"
+        },
+        {
+          "id": 6,
+          "img": "/img/product6_640x424.jpg",
+          "name": "Melon",
+          "attribution": "pixabay",
+          "price": "3.50",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+          "url": "#",
+          "color": "yellow"
+        },
+        {
+          "id": 7,
+          "img": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png",
+          "name": "Koboy",
+          "price": "999.99",
+          "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+          "attribution": "visualhunt",
+          "url": "#",
+          "color": "green"
+        }
+      ],
+    "took": 1,
+    "timed_out": false,
+    "_shards": {
+      "total": 5,
+      "successful": 5,
+      "failed": 0
+    },
+    "hits": {
+      "total": 41613,
+      "max_score": 1.0,
+      "hits": [
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "329937",
+          "_score": 1.0,
+          "_source": {
+            "title": "Bellroy x MAAP All Conditions Phone Pocket Black",
+            "slug": "bellroy-x-maap-all-conditions-phone-pocket-black-1",
+            "number": "BLRY182522E",
+            "description": "",
+            "image": [
+              "5ab41954c5de6.jpg"
+            ],
+            "brand": "Bellroy",
+            "label": "bellroy",
+            "idr_price": 2499000,
+            "usd_price": 17493,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "2664",
+              "1258"
+            ],
+            "main_category": [
+              "2740",
+              "2964"
+            ],
+            "sub_category": [
+              
+            ],
+            "highlight": "",
+            "weight": 100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-03-23T04:00:03Z",
+            "tag": [
+              "2913",
+              "5840",
+              "5843",
+              "6228",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women accessories aksesoris wallets dompet men",
+            "price_range": "2juta-3juta",
+            "display_price": 2499000,
+            "tag_slug": [
+              "local-brands",
+              "the-tops-report",
+              "break-a-legging",
+              "exclusive-and-collaboration-premium-brands",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 10,
+            "titleSuggestion": {
+              "input": [
+                "Bellroy",
+                "x",
+                "MAAP",
+                "All",
+                "Conditions",
+                "Phone",
+                "Pocket",
+                "Black",
+                "Bellroy x",
+                "x MAAP",
+                "MAAP All",
+                "All Conditions",
+                "Conditions Phone",
+                "Phone Pocket",
+                "Pocket Black",
+                "Bellroy x MAAP",
+                "x MAAP All",
+                "MAAP All Conditions",
+                "All Conditions Phone",
+                "Conditions Phone Pocket",
+                "Phone Pocket Black",
+                "Bellroy x MAAP All",
+                "x MAAP All Conditions",
+                "MAAP All Conditions Phone",
+                "All Conditions Phone Pocket",
+                "Conditions Phone Pocket Black",
+                "Bellroy x MAAP All Conditions",
+                "x MAAP All Conditions Phone",
+                "MAAP All Conditions Phone Pocket",
+                "All Conditions Phone Pocket Black",
+                "Bellroy x MAAP All Conditions Phone",
+                "x MAAP All Conditions Phone Pocket",
+                "MAAP All Conditions Phone Pocket Black",
+                "Bellroy x MAAP All Conditions Phone Pocket",
+                "x MAAP All Conditions Phone Pocket Black",
+                "Bellroy x MAAP All Conditions Phone Pocket Black"
+              ],
+              "output": "Bellroy x MAAP All Conditions Phone Pocket Black",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Bellroy"
+              ],
+              "output": "Bellroy",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "wallets"
+              ],
+              "output": "wallets",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "morello",
+            "tag_boosters": [
+              {
+                "id": 6228,
+                "boost": "154"
+              }
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "326452",
+          "_score": 1.0,
+          "_source": {
+            "title": "Bellroy x MAAP All Conditions Phone Pocket Plus Arctic Blue",
+            "slug": "bellroy-x-maap-all-conditions-phone-pocket-plus-arctic-blue",
+            "number": "BLRY181988D",
+            "description": "",
+            "image": [
+              "5a8ddff080b26.jpg"
+            ],
+            "brand": "Bellroy",
+            "label": "bellroy",
+            "idr_price": 2699000,
+            "usd_price": 18893,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "2664",
+              "1258"
+            ],
+            "main_category": [
+              "2740",
+              "2964"
+            ],
+            "sub_category": [
+              
+            ],
+            "highlight": "",
+            "weight": 100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-02-22T04:09:02Z",
+            "tag": [
+              "2913",
+              "5840",
+              "5843",
+              "6228",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women accessories aksesoris wallets dompet men",
+            "price_range": "2juta-3juta",
+            "display_price": 2699000,
+            "tag_slug": [
+              "local-brands",
+              "the-tops-report",
+              "break-a-legging",
+              "exclusive-and-collaboration-premium-brands",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 10,
+            "titleSuggestion": {
+              "input": [
+                "Bellroy",
+                "x",
+                "MAAP",
+                "All",
+                "Conditions",
+                "Phone",
+                "Pocket",
+                "Plus",
+                "Arctic",
+                "Blue",
+                "Bellroy x",
+                "x MAAP",
+                "MAAP All",
+                "All Conditions",
+                "Conditions Phone",
+                "Phone Pocket",
+                "Pocket Plus",
+                "Plus Arctic",
+                "Arctic Blue",
+                "Bellroy x MAAP",
+                "x MAAP All",
+                "MAAP All Conditions",
+                "All Conditions Phone",
+                "Conditions Phone Pocket",
+                "Phone Pocket Plus",
+                "Pocket Plus Arctic",
+                "Plus Arctic Blue",
+                "Bellroy x MAAP All",
+                "x MAAP All Conditions",
+                "MAAP All Conditions Phone",
+                "All Conditions Phone Pocket",
+                "Conditions Phone Pocket Plus",
+                "Phone Pocket Plus Arctic",
+                "Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions",
+                "x MAAP All Conditions Phone",
+                "MAAP All Conditions Phone Pocket",
+                "All Conditions Phone Pocket Plus",
+                "Conditions Phone Pocket Plus Arctic",
+                "Phone Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions Phone",
+                "x MAAP All Conditions Phone Pocket",
+                "MAAP All Conditions Phone Pocket Plus",
+                "All Conditions Phone Pocket Plus Arctic",
+                "Conditions Phone Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions Phone Pocket",
+                "x MAAP All Conditions Phone Pocket Plus",
+                "MAAP All Conditions Phone Pocket Plus Arctic",
+                "All Conditions Phone Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions Phone Pocket Plus",
+                "x MAAP All Conditions Phone Pocket Plus Arctic",
+                "MAAP All Conditions Phone Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions Phone Pocket Plus Arctic",
+                "x MAAP All Conditions Phone Pocket Plus Arctic Blue",
+                "Bellroy x MAAP All Conditions Phone Pocket Plus Arctic Blue"
+              ],
+              "output": "Bellroy x MAAP All Conditions Phone Pocket Plus Arctic Blue",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Bellroy"
+              ],
+              "output": "Bellroy",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "wallets"
+              ],
+              "output": "wallets",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "morello",
+            "tag_boosters": [
+              {
+                "id": 6228,
+                "boost": "156"
+              }
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "326875",
+          "_score": 1.0,
+          "_source": {
+            "title": "Free Rage The Free Rage Tee Black",
+            "slug": "free-rage-the-free-rage-tee-black",
+            "number": "MBMO201802231042551817A2F",
+            "description": "<div class=\"mrl-desc\"><h5>About the Brand</h5><div>\n<p>FREE RAGE was founded in 2007 with a vision of developing creative retro clothing. Their collections include outdoor, worker and military clothing. Furthermore, because FREE RAGE have their own clothing printing factories, therefore their designers and printing experts can work better together on product developing through direct communication and ideas exchanging. Wearers will find the creativity and the craftsmanship in their products and enjoy the fun that casual wear brings.</p>\n</div></div>",
+            "image": [
+              "5a8f8f3e3a5e7.jpg"
+            ],
+            "brand": "Free Rage",
+            "label": "free-rage",
+            "idr_price": 549000,
+            "usd_price": 3843,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "1243"
+            ],
+            "main_category": [
+              "2829"
+            ],
+            "sub_category": [
+              "2848"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-02-23T10:49:16Z",
+            "tag": [
+              "2913",
+              "5839",
+              "5841",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "xs"
+            ],
+            "size_name": [
+              "XS"
+            ],
+            "size_group": "[{\"cloth\":{\"international\":[\"227\"],\"us\":[\"2509\",\"2508\",\"2360\"],\"uk\":[\"2370\",\"3273\"],\"eu\":[\"2374\",\"2355\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}}]",
+            "size_cloth_int": [
+              "227"
+            ],
+            "size_cloth_int_slug": [
+              "xs"
+            ],
+            "size_cloth_int_name": [
+              "XS"
+            ],
+            "size_cloth_us": [
+              "2509",
+              "2508",
+              "2360"
+            ],
+            "size_cloth_us_slug": [
+              "us-0",
+              "us-2",
+              "us-4"
+            ],
+            "size_cloth_us_name": [
+              "US 0",
+              "US 2",
+              "US 4"
+            ],
+            "size_cloth_uk": [
+              "2370",
+              "3273"
+            ],
+            "size_cloth_uk_slug": [
+              "uk-6",
+              "uk-8"
+            ],
+            "size_cloth_uk_name": [
+              "UK 6",
+              "UK 8"
+            ],
+            "size_cloth_it": [
+              "2374",
+              "2355"
+            ],
+            "size_cloth_it_slug": [
+              "eu-34",
+              "eu-36"
+            ],
+            "size_cloth_it_name": [
+              "EU 34",
+              "EU 36"
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "men clothing baju tops atasan t-shirts kaos t-shirt",
+            "price_range": "500ribu-1juta",
+            "display_price": 549000,
+            "tag_slug": [
+              "local-brands",
+              "wastu15",
+              "bright-night",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Free",
+                "Rage",
+                "The",
+                "Free",
+                "Rage",
+                "Tee",
+                "Black",
+                "Free Rage",
+                "Rage The",
+                "The Free",
+                "Free Rage",
+                "Rage Tee",
+                "Tee Black",
+                "Free Rage The",
+                "Rage The Free",
+                "The Free Rage",
+                "Free Rage Tee",
+                "Rage Tee Black",
+                "Free Rage The Free",
+                "Rage The Free Rage",
+                "The Free Rage Tee",
+                "Free Rage Tee Black",
+                "Free Rage The Free Rage",
+                "Rage The Free Rage Tee",
+                "The Free Rage Tee Black",
+                "Free Rage The Free Rage Tee",
+                "Rage The Free Rage Tee Black",
+                "Free Rage The Free Rage Tee Black"
+              ],
+              "output": "Free Rage The Free Rage Tee Black",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Free",
+                "Rage",
+                "Free Rage"
+              ],
+              "output": "Free Rage",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "t",
+                "shirts",
+                "t shirts",
+                "tshirts",
+                "t-shirts"
+              ],
+              "output": "t-shirts",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "morello",
+            "tag_boosters": [
+              
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "331889",
+          "_score": 1.0,
+          "_source": {
+            "title": "Free Rage Recycled Cotton Overall Handle Tee Resort White",
+            "slug": "free-rage-recycled-cotton-overall-handle-tee-resort-white",
+            "number": "MBMO2018022310425518293A9",
+            "description": "<div class=\"mrl-desc\"><h5>About The Brand</h5><div>\n<p>FREE RAGE was founded in 2007 with a vision of developing creative retro clothing. Their collections include outdoor, worker and military clothing. Furthermore, because FREE RAGE have their own clothing printing factories, therefore their designers and printing experts can work better together on product developing through direct communication and ideas exchanging. Wearers will find the creativity and the craftsmanship in their products and enjoy the fun that casual wear brings.</p>\n</div></div>",
+            "image": [
+              "5acbd49ce8f93.jpg"
+            ],
+            "brand": "Free Rage",
+            "label": "free-rage",
+            "idr_price": 949000,
+            "usd_price": 6643,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "1243"
+            ],
+            "main_category": [
+              "2829"
+            ],
+            "sub_category": [
+              "2848"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-04-10T04:01:15Z",
+            "tag": [
+              "2913",
+              "5839",
+              "5841",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "s",
+              "m",
+              "l"
+            ],
+            "size_name": [
+              "S",
+              "M",
+              "L"
+            ],
+            "size_group": "[{\"cloth\":{\"international\":[\"1\"],\"us\":[\"2508\",\"2360\",\"2300\"],\"uk\":[\"3273\",\"3287\"],\"eu\":[\"2355\",\"2292\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"2\"],\"us\":[\"2360\",\"2300\",\"2273\"],\"uk\":[\"3287\",\"3288\"],\"eu\":[\"2292\",\"2267\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"3\"],\"us\":[\"2273\",\"2275\"],\"uk\":[\"3288\",\"3289\"],\"eu\":[\"2267\",\"2269\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}}]",
+            "size_cloth_int": [
+              "1",
+              "2",
+              "3"
+            ],
+            "size_cloth_int_slug": [
+              "s",
+              "m",
+              "l"
+            ],
+            "size_cloth_int_name": [
+              "S",
+              "M",
+              "L"
+            ],
+            "size_cloth_us": [
+              "2508",
+              "2360",
+              "2300",
+              "2273",
+              "2275"
+            ],
+            "size_cloth_us_slug": [
+              "us-2",
+              "us-4",
+              "us-6",
+              "us-8",
+              "us-10"
+            ],
+            "size_cloth_us_name": [
+              "US 2",
+              "US 4",
+              "US 6",
+              "US 8",
+              "US 10"
+            ],
+            "size_cloth_uk": [
+              "3273",
+              "3287",
+              "3288",
+              "3289"
+            ],
+            "size_cloth_uk_slug": [
+              "uk-8",
+              "uk-10",
+              "uk-12",
+              "uk-14"
+            ],
+            "size_cloth_uk_name": [
+              "UK 8",
+              "UK 10",
+              "UK 12",
+              "UK 14"
+            ],
+            "size_cloth_it": [
+              "2355",
+              "2292",
+              "2267",
+              "2269"
+            ],
+            "size_cloth_it_slug": [
+              "eu-36",
+              "eu-38",
+              "eu-40",
+              "eu-42"
+            ],
+            "size_cloth_it_name": [
+              "EU 36",
+              "EU 38",
+              "EU 40",
+              "EU 42"
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "men clothing baju tops atasan t-shirts kaos t-shirt",
+            "price_range": "500ribu-1juta",
+            "display_price": 949000,
+            "tag_slug": [
+              "local-brands",
+              "wastu15",
+              "bright-night",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Free",
+                "Rage",
+                "Recycled",
+                "Cotton",
+                "Overall",
+                "Handle",
+                "Tee",
+                "Resort",
+                "White",
+                "Free Rage",
+                "Rage Recycled",
+                "Recycled Cotton",
+                "Cotton Overall",
+                "Overall Handle",
+                "Handle Tee",
+                "Tee Resort",
+                "Resort White",
+                "Free Rage Recycled",
+                "Rage Recycled Cotton",
+                "Recycled Cotton Overall",
+                "Cotton Overall Handle",
+                "Overall Handle Tee",
+                "Handle Tee Resort",
+                "Tee Resort White",
+                "Free Rage Recycled Cotton",
+                "Rage Recycled Cotton Overall",
+                "Recycled Cotton Overall Handle",
+                "Cotton Overall Handle Tee",
+                "Overall Handle Tee Resort",
+                "Handle Tee Resort White",
+                "Free Rage Recycled Cotton Overall",
+                "Rage Recycled Cotton Overall Handle",
+                "Recycled Cotton Overall Handle Tee",
+                "Cotton Overall Handle Tee Resort",
+                "Overall Handle Tee Resort White",
+                "Free Rage Recycled Cotton Overall Handle",
+                "Rage Recycled Cotton Overall Handle Tee",
+                "Recycled Cotton Overall Handle Tee Resort",
+                "Cotton Overall Handle Tee Resort White",
+                "Free Rage Recycled Cotton Overall Handle Tee",
+                "Rage Recycled Cotton Overall Handle Tee Resort",
+                "Recycled Cotton Overall Handle Tee Resort White",
+                "Free Rage Recycled Cotton Overall Handle Tee Resort",
+                "Rage Recycled Cotton Overall Handle Tee Resort White",
+                "Free Rage Recycled Cotton Overall Handle Tee Resort White"
+              ],
+              "output": "Free Rage Recycled Cotton Overall Handle Tee Resort White",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Free",
+                "Rage",
+                "Free Rage"
+              ],
+              "output": "Free Rage",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "t",
+                "shirts",
+                "t shirts",
+                "tshirts",
+                "t-shirts"
+              ],
+              "output": "t-shirts",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "morello",
+            "tag_boosters": [
+              
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "94999",
+          "_score": 1.0,
+          "_source": {
+            "title": "Planet Robot Tin Poster",
+            "slug": "planet-robot-tin-poster",
+            "number": "TIN1721E50",
+            "description": "<p>The Tin Industry is a magical tin toys company that's bring back your childhood memories. This A3 Size Tinplate with classic Planet Robot Graphic is has very high quality prints with coating&nbsp;</p>",
+            "image": [
+              "58bf80c8b635a.jpg"
+            ],
+            "brand": "The Tin Industry",
+            "label": "the-tin-industry",
+            "idr_price": 150000,
+            "usd_price": 1050,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "3025",
+              "3139"
+            ],
+            "main_category": [
+              "3057",
+              "3171"
+            ],
+            "sub_category": [
+              "3060",
+              "3177"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2017-03-08T10:55:52Z",
+            "tag": [
+              "2399",
+              "2401",
+              "5904",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women living collectibles barang koleksi toys men mainan",
+            "price_range": "dibawah500ribu",
+            "display_price": 150000,
+            "tag_slug": [
+              "gift-for-him",
+              "gift-for-kids",
+              "tokens-of-love",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Planet",
+                "Robot",
+                "Tin",
+                "Poster",
+                "Planet Robot",
+                "Robot Tin",
+                "Tin Poster",
+                "Planet Robot Tin",
+                "Robot Tin Poster",
+                "Planet Robot Tin Poster"
+              ],
+              "output": "Planet Robot Tin Poster",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "The",
+                "Tin",
+                "Industry",
+                "The Tin",
+                "Tin Industry",
+                "The Tin Industry"
+              ],
+              "output": "The Tin Industry",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "toys"
+              ],
+              "output": "toys",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "95004",
+          "_score": 1.0,
+          "_source": {
+            "title": "Sparky Robot Tin Poster",
+            "slug": "sparky-robot-tin-poster",
+            "number": "TIN1726A65",
+            "description": "<p>The Tin Industry is a magical tin toys company that's bring back your childhood memories. This A3 Size Tinplate with classic Planet Robot Graphic is has very high quality prints with coating.</p>",
+            "image": [
+              "58bf812dc2365.jpg"
+            ],
+            "brand": "The Tin Industry",
+            "label": "the-tin-industry",
+            "idr_price": 150000,
+            "usd_price": 1050,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "3025",
+              "3139"
+            ],
+            "main_category": [
+              "3057",
+              "3171"
+            ],
+            "sub_category": [
+              "3060",
+              "3177"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2017-03-08T10:57:00Z",
+            "tag": [
+              "2399",
+              "2401",
+              "4544",
+              "5904",
+              "1"
+            ],
+            "color_slug": [
+              
+            ],
+            "color_name": [
+              
+            ],
+            "color_group": [
+              
+            ],
+            "color_group_slug": [
+              
+            ],
+            "color_group_name": [
+              
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women living collectibles barang koleksi toys men mainan",
+            "price_range": "dibawah500ribu",
+            "display_price": 150000,
+            "tag_slug": [
+              "gift-for-him",
+              "gift-for-kids",
+              "twgl-under-1-mio-front",
+              "tokens-of-love",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Sparky",
+                "Robot",
+                "Tin",
+                "Poster",
+                "Sparky Robot",
+                "Robot Tin",
+                "Tin Poster",
+                "Sparky Robot Tin",
+                "Robot Tin Poster",
+                "Sparky Robot Tin Poster"
+              ],
+              "output": "Sparky Robot Tin Poster",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "The",
+                "Tin",
+                "Industry",
+                "The Tin",
+                "Tin Industry",
+                "The Tin Industry"
+              ],
+              "output": "The Tin Industry",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "toys"
+              ],
+              "output": "toys",
+              "context": {
+                "vertical": [
+                  "871",
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "351889",
+          "_score": 1.0,
+          "_source": {
+            "title": "White Cargo Truck T-Shirt",
+            "slug": "white-cargo-truck-t-shirt",
+            "number": "JACO18372F1",
+            "description": "<p>This Cargo Truck T-Shirt belongs to the latest and the best graphic tees collection from Jackhammer Co. This is the Delivery Men Series which tells the experts who handle our cargo by delivering packages smoothly for those in needs. Team yours with denim pants and a pair of your best sneakers, and you're ready to hit the road!</p>",
+            "image": [
+              "5b2a17a9d6b4a.jpg"
+            ],
+            "brand": "Jackhammer Co",
+            "label": "jackhammer-co",
+            "idr_price": 169000,
+            "usd_price": 1183,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "869",
+              "2"
+            ],
+            "parent_category": [
+              "1243"
+            ],
+            "main_category": [
+              "2829"
+            ],
+            "sub_category": [
+              "2848"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-06-21T11:48:00Z",
+            "tag": [
+              "2398",
+              "6189",
+              "1"
+            ],
+            "color_slug": [
+              "white"
+            ],
+            "color_name": [
+              "White"
+            ],
+            "color_group": [
+              [
+                
+              ]
+            ],
+            "color_group_slug": [
+              "white"
+            ],
+            "color_group_name": [
+              "White"
+            ],
+            "size_slug": [
+              "s",
+              "m",
+              "l",
+              "xl",
+              "-6"
+            ],
+            "size_name": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ],
+            "size_group": "[{\"cloth\":{\"international\":[\"1\"],\"us\":[\"2508\",\"2360\",\"2300\"],\"uk\":[\"3273\",\"3287\"],\"eu\":[\"2355\",\"2292\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"2\"],\"us\":[\"2360\",\"2300\",\"2273\"],\"uk\":[\"3287\",\"3288\"],\"eu\":[\"2292\",\"2267\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"3\"],\"us\":[\"2273\",\"2275\"],\"uk\":[\"3288\",\"3289\"],\"eu\":[\"2267\",\"2269\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"4\"],\"us\":[\"2275\",\"2277\"],\"uk\":[\"3289\",\"3303\"],\"eu\":[\"2269\",\"2271\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}},{\"cloth\":{\"international\":[\"1188\"],\"us\":[\"2277\",\"3292\"],\"uk\":[\"3303\",\"3304\"],\"eu\":[\"2271\",\"2501\"]},\"shoes\":{\"eu\":[],\"us\":[],\"uk\":[],\"jp\":[]}}]",
+            "size_cloth_int": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "1188"
+            ],
+            "size_cloth_int_slug": [
+              "s",
+              "m",
+              "l",
+              "xl",
+              "-6"
+            ],
+            "size_cloth_int_name": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ],
+            "size_cloth_us": [
+              "2508",
+              "2360",
+              "2300",
+              "2273",
+              "2275",
+              "2277",
+              "3292"
+            ],
+            "size_cloth_us_slug": [
+              "us-2",
+              "us-4",
+              "us-6",
+              "us-8",
+              "us-10",
+              "us-12",
+              "us-14"
+            ],
+            "size_cloth_us_name": [
+              "US 2",
+              "US 4",
+              "US 6",
+              "US 8",
+              "US 10",
+              "US 12",
+              "US 14"
+            ],
+            "size_cloth_uk": [
+              "3273",
+              "3287",
+              "3288",
+              "3289",
+              "3303",
+              "3304"
+            ],
+            "size_cloth_uk_slug": [
+              "uk-8",
+              "uk-10",
+              "uk-12",
+              "uk-14",
+              "uk-16",
+              "uk-18"
+            ],
+            "size_cloth_uk_name": [
+              "UK 8",
+              "UK 10",
+              "UK 12",
+              "UK 14",
+              "UK 16",
+              "UK 18"
+            ],
+            "size_cloth_it": [
+              "2355",
+              "2292",
+              "2267",
+              "2269",
+              "2271",
+              "2501"
+            ],
+            "size_cloth_it_slug": [
+              "eu-36",
+              "eu-38",
+              "eu-40",
+              "eu-42",
+              "eu-44",
+              "eu-46"
+            ],
+            "size_cloth_it_name": [
+              "EU 36",
+              "EU 38",
+              "EU 40",
+              "EU 42",
+              "EU 44",
+              "EU 46"
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "men clothing baju tops atasan t-shirts kaos t-shirt",
+            "price_range": "dibawah500ribu",
+            "display_price": 169000,
+            "tag_slug": [
+              "local-pride",
+              "men-white-tshirt",
+              "affordable"
+            ],
+            "boost": "500",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "White",
+                "Cargo",
+                "Truck",
+                "T",
+                "Shirt",
+                "White Cargo",
+                "Cargo Truck",
+                "Truck T",
+                "T Shirt",
+                "White Cargo Truck",
+                "Cargo Truck T",
+                "Truck T Shirt",
+                "White Cargo Truck T",
+                "Cargo Truck T Shirt",
+                "White Cargo Truck T Shirt",
+                "White Cargo Truck TShirt",
+                "White Cargo Truck T-Shirt"
+              ],
+              "output": "White Cargo Truck T-Shirt",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Jackhammer",
+                "Co",
+                "Jackhammer Co"
+              ],
+              "output": "Jackhammer Co",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "t",
+                "shirts",
+                "t shirts",
+                "tshirts",
+                "t-shirts"
+              ],
+              "output": "t-shirts",
+              "context": {
+                "vertical": [
+                  "869",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "361094",
+          "_score": 1.0,
+          "_source": {
+            "title": "Silver Cosmic Earrings",
+            "slug": "silver-cosmic-earrings",
+            "number": "VSO184D5F8",
+            "description": "<p>Inspired by straight lines, Verso brings out the touch of minimalist and simplicity to your looks. This Cosmic Earrings is handcrafted from sterling silver with utmost attention towards detail, following the idea that simple is beautiful and less is more. Wear it as a perfect complement to escalate your daily look.</p>",
+            "image": [
+              "5b6c0bb88a613.jpg"
+            ],
+            "brand": "Verso",
+            "label": "verso",
+            "idr_price": 550000,
+            "usd_price": 3850,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "2"
+            ],
+            "parent_category": [
+              "2664"
+            ],
+            "main_category": [
+              "2774"
+            ],
+            "sub_category": [
+              "3260"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-08-09T16:40:40Z",
+            "tag": [
+              "2913",
+              "3189",
+              "3191",
+              "6180",
+              "6190",
+              "1"
+            ],
+            "color_slug": [
+              "silver"
+            ],
+            "color_name": [
+              "Silver"
+            ],
+            "color_group": [
+              [
+                "928"
+              ]
+            ],
+            "color_group_slug": [
+              "grey"
+            ],
+            "color_group_name": [
+              "Grey"
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women accessories aksesoris jewelry perhiasan earrings anting",
+            "price_range": "500ribu-1juta",
+            "display_price": 550000,
+            "tag_slug": [
+              "local-brands",
+              "local-brands-women",
+              "local-brands-women-accessories",
+              "statement-earrings",
+              "women-w2-aug",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Silver",
+                "Cosmic",
+                "Earrings",
+                "Silver Cosmic",
+                "Cosmic Earrings",
+                "Silver Cosmic Earrings"
+              ],
+              "output": "Silver Cosmic Earrings",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Verso"
+              ],
+              "output": "Verso",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "earrings"
+              ],
+              "output": "earrings",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              {
+                "id": 6190,
+                "boost": "431"
+              },
+              {
+                "id": 6180,
+                "boost": "428"
+              }
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "361080",
+          "_score": 1.0,
+          "_source": {
+            "title": "Gold Kaia Earrings",
+            "slug": "gold-kaia-earrings",
+            "number": "VSO1848D77",
+            "description": "<p>Inspired by straight lines, Verso brings out the touch of minimalist and simplicity to your looks. This Kaia Earrings is handcrafted from sterling silver with utmost attention towards detail, following the idea that simple is beautiful and less is more. Wear it as a perfect complement to escalate your daily look.</p>",
+            "image": [
+              "5b6c08e03aa20.jpg"
+            ],
+            "brand": "Verso",
+            "label": "verso",
+            "idr_price": 340000,
+            "usd_price": 2380,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "2"
+            ],
+            "parent_category": [
+              "2664"
+            ],
+            "main_category": [
+              "2774"
+            ],
+            "sub_category": [
+              "3260"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-08-09T16:26:56Z",
+            "tag": [
+              "2913",
+              "3189",
+              "3191",
+              "6180",
+              "6190",
+              "1"
+            ],
+            "color_slug": [
+              "gold"
+            ],
+            "color_name": [
+              "Gold"
+            ],
+            "color_group": [
+              [
+                "164",
+                "11"
+              ]
+            ],
+            "color_group_slug": [
+              "yellow",
+              "brown"
+            ],
+            "color_group_name": [
+              "Yellow",
+              "Brown"
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              
+            ],
+            "size_cloth_int_slug": [
+              
+            ],
+            "size_cloth_int_name": [
+              
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women accessories aksesoris jewelry perhiasan earrings anting",
+            "price_range": "dibawah500ribu",
+            "display_price": 340000,
+            "tag_slug": [
+              "local-brands",
+              "local-brands-women",
+              "local-brands-women-accessories",
+              "statement-earrings",
+              "women-w2-aug",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Gold",
+                "Kaia",
+                "Earrings",
+                "Gold Kaia",
+                "Kaia Earrings",
+                "Gold Kaia Earrings"
+              ],
+              "output": "Gold Kaia Earrings",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Verso"
+              ],
+              "output": "Verso",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "earrings"
+              ],
+              "output": "earrings",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              {
+                "id": 6190,
+                "boost": "438"
+              },
+              {
+                "id": 6180,
+                "boost": "435"
+              }
+            ]
+          }
+        },
+        {
+          "_index": "bobobobo",
+          "_type": "products",
+          "_id": "359668",
+          "_score": 1.0,
+          "_source": {
+            "title": "Brown Nusa Batik Top",
+            "slug": "brown-nusa-batik-top",
+            "number": "OME1843E78",
+            "description": "<p>It's so easy to fall in love with the newest collection of Oemah Etnik. This Nusa Basic Top is a boxy sleeveless top made from comfortable linen. Choose your perfect way to wear this versatile top by layer it with a simple shirt for a sweet summer look or complement the piece with your work blazer for a daily office style. Finish the look with culottes and mules, and you're ready to go!</p>",
+            "image": [
+              "5b62b216a3a8f.jpg"
+            ],
+            "brand": "Oemah Etnik",
+            "label": "oemah-etnik",
+            "idr_price": 459000,
+            "usd_price": 3213,
+            "idr_sale": 0,
+            "usd_sale": 0,
+            "vertical_category": [
+              "871",
+              "2"
+            ],
+            "parent_category": [
+              "2662"
+            ],
+            "main_category": [
+              "2667"
+            ],
+            "sub_category": [
+              "2675"
+            ],
+            "highlight": "",
+            "weight": 2100,
+            "most_wanted": "0",
+            "discount": 0,
+            "activation_date": "2018-08-02T14:33:54Z",
+            "tag": [
+              "2913",
+              "3189",
+              "3190",
+              "6164",
+              "6184",
+              "6190",
+              "1"
+            ],
+            "color_slug": [
+              "brown"
+            ],
+            "color_name": [
+              "Brown"
+            ],
+            "color_group": [
+              [
+                
+              ]
+            ],
+            "color_group_slug": [
+              "brown"
+            ],
+            "color_group_name": [
+              "Brown"
+            ],
+            "size_slug": [
+              "free-size"
+            ],
+            "size_name": [
+              "Free Size"
+            ],
+            "size_group": "[[]]",
+            "size_cloth_int": [
+              "235"
+            ],
+            "size_cloth_int_slug": [
+              "free-size"
+            ],
+            "size_cloth_int_name": [
+              "Free Size"
+            ],
+            "size_cloth_us": [
+              
+            ],
+            "size_cloth_us_slug": [
+              
+            ],
+            "size_cloth_us_name": [
+              
+            ],
+            "size_cloth_uk": [
+              
+            ],
+            "size_cloth_uk_slug": [
+              
+            ],
+            "size_cloth_uk_name": [
+              
+            ],
+            "size_cloth_it": [
+              
+            ],
+            "size_cloth_it_slug": [
+              
+            ],
+            "size_cloth_it_name": [
+              
+            ],
+            "size_shoes_eu": [
+              
+            ],
+            "size_shoes_eu_slug": [
+              
+            ],
+            "size_shoes_eu_name": [
+              
+            ],
+            "size_shoes_us": [
+              
+            ],
+            "size_shoes_us_slug": [
+              
+            ],
+            "size_shoes_us_name": [
+              
+            ],
+            "size_shoes_uk": [
+              
+            ],
+            "size_shoes_uk_slug": [
+              
+            ],
+            "size_shoes_uk_name": [
+              
+            ],
+            "size_shoes_jp": [
+              
+            ],
+            "size_shoes_jp_slug": [
+              
+            ],
+            "size_shoes_jp_name": [
+              
+            ],
+            "categories": "women clothing baju tops atasan tanks tank top",
+            "price_range": "dibawah500ribu",
+            "display_price": 459000,
+            "tag_slug": [
+              "local-brands",
+              "local-brands-women",
+              "local-brands-women-clothing",
+              "w1-aug-2018",
+              "shoulder-exposure",
+              "women-w2-aug",
+              "affordable"
+            ],
+            "boost": "100",
+            "most_popular": 15,
+            "titleSuggestion": {
+              "input": [
+                "Brown",
+                "Nusa",
+                "Batik",
+                "Top",
+                "Brown Nusa",
+                "Nusa Batik",
+                "Batik Top",
+                "Brown Nusa Batik",
+                "Nusa Batik Top",
+                "Brown Nusa Batik Top"
+              ],
+              "output": "Brown Nusa Batik Top",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "brandSuggestion": {
+              "input": [
+                "Oemah",
+                "Etnik",
+                "Oemah Etnik"
+              ],
+              "output": "Oemah Etnik",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "categorySuggestion": {
+              "input": [
+                "tanks"
+              ],
+              "output": "tanks",
+              "context": {
+                "vertical": [
+                  "871",
+                  "2"
+                ]
+              }
+            },
+            "type": 1,
+            "sourcing_name": "bobobobo",
+            "tag_boosters": [
+              {
+                "id": 6190,
+                "boost": "407"
+              },
+              {
+                "id": 6184,
+                "boost": "363"
+              },
+              {
+                "id": 6164,
+                "boost": "444"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
